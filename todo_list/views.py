@@ -1,5 +1,4 @@
 import requests
-import json
 import os
 from dotenv import load_dotenv
 from django.shortcuts import render, redirect

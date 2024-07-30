@@ -1,10 +1,8 @@
-# ToDo-List
-
-A simple To-Do List using Django
-
-![image](https://user-images.githubusercontent.com/49264993/128688375-874abcd6-7597-4353-89c2-af47896b34ef.png)
-
 # Updated To-Do List App
+
+![screenshot-1](https://https://github.com/SOliyhan/ToDo-List_v2/tree/todo-v2/static/images/screenshot-1.png)
+
+![screenshot-2](https://https://github.com/SOliyhan/ToDo-List_v2/tree/todo-v2/static/images/screenshot-2.png)
 
 ## Overview
 
