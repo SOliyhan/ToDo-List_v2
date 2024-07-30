@@ -2,7 +2,7 @@
 
 ![Screenshot-1](https://github.com/SOliyhan/ToDo-List_v2/blob/todo-v2/static/images/screenshot-1.png)
 
-![Screenshot-2](https://github.com/SOliyhan/ToDo-List_v2/tree/todo-v2/static/images/screenshot-2.png)
+![Screenshot-2](https://github.com/SOliyhan/ToDo-List_v2/blob/todo-v2/static/images/screenshot-2.png)
 
 ## Overview
 
