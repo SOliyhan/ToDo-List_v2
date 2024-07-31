@@ -121,3 +121,31 @@ year = 2020
 
 - **Register:** Visit the registration page to create a new user account.
 - **Login:** Use the login page to access your account and perform CRUD operations on the To-do list App.
+
+Here's an example README section to guide users on how to use the Docker image for running your Django project:
+
+---
+
+### Running the Project with Docker
+
+1. **Build the Image**
+
+   Build the Docker image using the provided Dockerfile:
+
+   ```bash
+   docker build -t my-django-app .
+   ```
+
+After building the image, you can run the application inside a Docker container. This will make your application accessible via `http://localhost:8000`.
+
+2. **Run the Container**
+
+   Start the container using the built image:
+
+   ```bash
+   docker run --env-file .env -p 8000:8000 my-django-app
+   ```
+
+3. **Access the Application**
+
+   Open your web browser and navigate to `http://localhost:8000` to access the Django application.
